@@ -27,7 +27,7 @@ As part of the AWS re/Start program with Praesignis, I am building a comprehensi
 - **Networking:** VPC configuration, subnets, routing, security groups, and network ACLs.
 - **Security:** Currently focused on cloud security best practices, shared responsibility model, and AWS security services.
 
-The curriculum balances **theoretical knowledge** of all AWS services with **hands-on labs** that simulate real-world use cases, ensuring practical experience in deploying and managing cloud solutions. You can follow my cloud journey in my [AWS re/Start repository](link-to-repo).
+The curriculum balances **theoretical knowledge** of all AWS services with **hands-on labs** that simulate real-world use cases, ensuring practical experience in deploying and managing cloud solutions. You can follow my cloud journey in my  [AWS re/Start repository](https://github.com/PhemieMerakeng/AWS-Restart-Portfolio).
 
 ---
 

@@ -32,7 +32,7 @@ I completed the AWS re/Start program with Praesignis, building a comprehensive f
 - **Networking:** VPC configuration, subnets, routing, security groups, and network ACLs.
 - **Security:** Cloud security best practices, the shared responsibility model, and AWS security services.
 
-The curriculum balanced **theoretical knowledge** of AWS services with **hands-on labs** simulating real-world use cases. You can follow my cloud journey in my [AWS re/Start repository](https://github.com/PhemieMerakeng/AWS-Restart-Portfolio).
+The curriculum balanced **theoretical knowledge** of AWS services with **hands-on labs** simulating real-world use cases. You can follow my cloud journey in my [AWS re/Start Repository](https://github.com/PhemieMerakeng/AWS-Restart-Portfolio).
 
 ---
 
@@ -49,7 +49,7 @@ I'm currently studying for the **Microsoft SC-200: Security Operations Analyst**
 | 03 — Endpoint Threat Hunting with Sysmon | Deep host telemetry, process trees, post-exploitation detection | 📋 Planned |
 | 04 — Threat Intelligence Enrichment & Correlation | Ingesting open threat intel feeds, correlating indicators against real attack data | 📋 Planned |
 
-Repository: *[SOC Labs repository — link coming soon]*
+[SOC Analyst Rpository](https://github.com/PhemieMerakeng/soc-analyst-portfolio).
 
 **Core skills being developed:**
 - Microsoft Sentinel (SIEM/SOAR): data connectors, analytics rules, incidents, automation, workbooks, watchlists
